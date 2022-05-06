@@ -1,0 +1,40 @@
+header {
+  width: 100%;
+  height: 100px; 
+  background-image: url("../img/musica.jpg");
+  background-size: 80%;
+  background-position-y: 400px;
+  padding-top: 120px;
+  text-align: center;
+}
+
+h1 {
+  width: 100%;
+  font-family: Verdana;
+  font-size: 50pt;
+  color: red;
+  box-shadow: 1px 1px 15px rebeccapurple;
+  text-shadow: 10px 10px 15px black;
+  margin-top: 15px;
+}
+
+h2{
+  color: chocolate;
+}
+
+main p {
+    margin: 10px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+    font-family: "Lucida Sans";
+    font-size: 12pt;
+    line-height: 30px;
+    color: #fff;
+}
+
+
+
+
+
