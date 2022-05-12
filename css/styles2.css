@@ -148,26 +148,36 @@ height: 100px
 }
 
 /* ------------------------------teste------------------------------- */
-
-
-#miniatura{
-  
-  bottom: 0px;
-  width: 5%;
-  margin-left: auto;
-  margin-right: auto;
-  text-align: center;
+#img0 p  {
+  border: solid rgb(143, 47, 47) 
 }
 
-#miniatura img {
-  width: 200px;
-  height: 200px;
+
+
+
+#img0 img  {
+  width: 13%;
+  height: auto;
   cursor: pointer;
-  margin: 10px;
+  margin: 14px 14px 14px ;
   transition: ease 0.5s;
+  display:flex;
+  justify-content: center;
+  margin-left: 160px;
+  
+  }
+
+img:hover{
+  transform: scale(1.2);
 }
 
-#miniatura img:hover{
-  transform: scale(1.1);
-}
+
+
+
+
+
+
+
+
+
 

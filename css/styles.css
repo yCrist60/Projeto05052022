@@ -150,7 +150,7 @@ height: 100px
 /* ------------------------------teste------------------------------- */
 
 
-#miniatura{
+ #miniatura{
   
   bottom: 0px;
   width: 80%;
@@ -170,4 +170,5 @@ height: 100px
 #miniatura img:hover{
   transform: scale(1.1);
 }
+
 
