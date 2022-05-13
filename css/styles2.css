@@ -148,22 +148,24 @@ height: 100px
 }
 
 /* ------------------------------teste------------------------------- */
-#img0 p  {
-  border: solid rgb(143, 47, 47) 
+#img0  p{
+  border: solid rgb(139, 36, 36);
+  border-width: 3px;
+  
 }
 
 
 
 
 #img0 img  {
-  width: 13%;
+  width: 16%;
   height: auto;
   cursor: pointer;
-  margin: 14px 14px 14px ;
+  margin: 17px 16px 17px ;
   transition: ease 0.5s;
   display:flex;
   justify-content: center;
-  margin-left: 160px;
+  margin-left: 15px;
   
   }
 
